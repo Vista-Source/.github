@@ -9,6 +9,8 @@
 - [**Aperture**](https://github.com/Vista-Source/Aperture) - C# Test Framework that allows testing parity betwen C# logic and Source Engine logic.
 - [**Atlas**](https://github.com/Vista-Source/Atlas) - CLI tool made to automatically generate bindings for our C# Entity scripting system.
 - [**P-Body**](https://github.com/Vista-Source/P-Body) - C++ Library that allows Source Engine to easily call into our C# logic.
+- [**Squirrel.NET**](https://github.com/Vista-Source/Squirrel.NET) - C# Bindings for the Squirrel programming language used by VScript.
+
 
 
 
